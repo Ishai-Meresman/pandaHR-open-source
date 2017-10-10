@@ -1,0 +1,20 @@
+{
+  "name": "pandaHR-open-source",
+  "version": "1.0.0",
+  "description": "pandaHR is a management platform for employers to track candidates, positions and bring them all together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishai-Meresman/pandaHR-open-source.git"
+  },
+  "keywords": [],
+  "author": "Ishai Meresman",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Ishai-Meresman/pandaHR-open-source/issues"
+  },
+  "homepage": "https://github.com/Ishai-Meresman/pandaHR-open-source#readme"
+}
