@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/Ishai-Meresman/pandaHR-open-source/issues"
   },
-  "homepage": "https://github.com/Ishai-Meresman/pandaHR-open-source#readme"
+  "homepage": "https://github.com/Ishai-Meresman/pandaHR-open-source#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "webpack": "^3.7.1"
+  }
 }
